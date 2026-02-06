@@ -1,7 +1,5 @@
 {
   "worlds": [
-Probing Ain...
-  Channels: 20/20 online
     {
       "id": "ain",
       "name": "Ain",
@@ -36,8 +34,6 @@ Probing Ain...
       ]
     }
 ,
-Probing Errai...
-  Channels: 20/20 online
     {
       "id": "errai",
       "name": "Errai",
@@ -72,8 +68,6 @@ Probing Errai...
       ]
     }
 ,
-Probing Fang...
-  Channels: 20/20 online
     {
       "id": "fang",
       "name": "Fang",
@@ -210,6 +204,6 @@ Probing Fang...
       ]
     }
   ],
-  "lastChecked": "2026-02-06T07:36:04.000Z",
+  "lastChecked": "2026-02-06T07:37:04.000Z",
   "probeInterval": 60
 }
