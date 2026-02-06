@@ -86,7 +86,7 @@
         {"id":5,"status":"online"},
         {"id":6,"status":"online"},
         {"id":7,"status":"online"},
-        {"id":8,"status":"online"},
+        {"id":8,"status":"offline"},
         {"id":9,"status":"online"},
         {"id":10,"status":"online"},
         {"id":11,"status":"online"},
@@ -204,6 +204,6 @@
       ]
     }
   ],
-  "lastChecked": "2026-02-06T10:02:06.000Z",
+  "lastChecked": "2026-02-06T10:03:07.000Z",
   "probeInterval": 60
 }
