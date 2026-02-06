@@ -15,8 +15,8 @@ cd "$SCRIPT_DIR" || exit 1
 # Pull latest changes (in case of manual updates)
 git pull --quiet origin main 2>/dev/null || true
 
-# Run the probe script
-node probe-servers.mjs
+# Run the probe script (bash version, no Node.js needed)
+bash probe-servers.sh
 
 # Check if file changed
 if git diff --quiet server-status.json 2>/dev/null; then
