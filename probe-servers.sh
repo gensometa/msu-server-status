@@ -57,7 +57,7 @@ probe_world() {
     local world_icon=$3
     local -n channels=$4
 
-    echo "Probing $world_name..."
+    echo "Probing $world_name..." >&2
 
     local channel_json=""
     local online_count=0
@@ -75,7 +75,7 @@ probe_world() {
         {\"id\":$i,\"status\":\"$status\"}"
     done
 
-    echo "  Channels: $online_count/20 online"
+    echo "  Channels: $online_count/20 online" >&2
 
     cat << EOF
     {
