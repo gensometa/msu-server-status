@@ -1,5 +1,215 @@
 {
-  "worlds": [],
-  "lastChecked": "1970-01-01T00:00:00.000Z",
+  "worlds": [
+Probing Ain...
+  Channels: 20/20 online
+    {
+      "id": "ain",
+      "name": "Ain",
+      "icon": "🌟",
+      "isDisabled": false,
+      "loginServer": {
+        "ip": "54.64.142.213",
+        "port": 8484,
+        "status": "online"
+      },
+      "channels": [
+        {"id":1,"status":"online"},
+        {"id":2,"status":"online"},
+        {"id":3,"status":"online"},
+        {"id":4,"status":"online"},
+        {"id":5,"status":"online"},
+        {"id":6,"status":"online"},
+        {"id":7,"status":"online"},
+        {"id":8,"status":"online"},
+        {"id":9,"status":"online"},
+        {"id":10,"status":"online"},
+        {"id":11,"status":"online"},
+        {"id":12,"status":"online"},
+        {"id":13,"status":"online"},
+        {"id":14,"status":"online"},
+        {"id":15,"status":"online"},
+        {"id":16,"status":"online"},
+        {"id":17,"status":"online"},
+        {"id":18,"status":"online"},
+        {"id":19,"status":"online"},
+        {"id":20,"status":"online"}
+      ]
+    }
+,
+Probing Errai...
+  Channels: 20/20 online
+    {
+      "id": "errai",
+      "name": "Errai",
+      "icon": "🔥",
+      "isDisabled": false,
+      "loginServer": {
+        "ip": "54.64.142.213",
+        "port": 8484,
+        "status": "online"
+      },
+      "channels": [
+        {"id":1,"status":"online"},
+        {"id":2,"status":"online"},
+        {"id":3,"status":"online"},
+        {"id":4,"status":"online"},
+        {"id":5,"status":"online"},
+        {"id":6,"status":"online"},
+        {"id":7,"status":"online"},
+        {"id":8,"status":"online"},
+        {"id":9,"status":"online"},
+        {"id":10,"status":"online"},
+        {"id":11,"status":"online"},
+        {"id":12,"status":"online"},
+        {"id":13,"status":"online"},
+        {"id":14,"status":"online"},
+        {"id":15,"status":"online"},
+        {"id":16,"status":"online"},
+        {"id":17,"status":"online"},
+        {"id":18,"status":"online"},
+        {"id":19,"status":"online"},
+        {"id":20,"status":"online"}
+      ]
+    }
+,
+Probing Fang...
+  Channels: 20/20 online
+    {
+      "id": "fang",
+      "name": "Fang",
+      "icon": "🐺",
+      "isDisabled": false,
+      "loginServer": {
+        "ip": "54.64.142.213",
+        "port": 8484,
+        "status": "online"
+      },
+      "channels": [
+        {"id":1,"status":"online"},
+        {"id":2,"status":"online"},
+        {"id":3,"status":"online"},
+        {"id":4,"status":"online"},
+        {"id":5,"status":"online"},
+        {"id":6,"status":"online"},
+        {"id":7,"status":"online"},
+        {"id":8,"status":"online"},
+        {"id":9,"status":"online"},
+        {"id":10,"status":"online"},
+        {"id":11,"status":"online"},
+        {"id":12,"status":"online"},
+        {"id":13,"status":"online"},
+        {"id":14,"status":"online"},
+        {"id":15,"status":"online"},
+        {"id":16,"status":"online"},
+        {"id":17,"status":"online"},
+        {"id":18,"status":"online"},
+        {"id":19,"status":"online"},
+        {"id":20,"status":"online"}
+      ]
+    }
+,
+    {
+      "id": "polaris",
+      "name": "Polaris",
+      "icon": "⭐",
+      "isDisabled": true,
+      "loginServer": {
+        "ip": "0.0.0.0",
+        "port": 8484,
+        "status": "offline"
+      },
+      "channels": [
+        {"id":1,"status":"offline"},
+        {"id":2,"status":"offline"},
+        {"id":3,"status":"offline"},
+        {"id":4,"status":"offline"},
+        {"id":5,"status":"offline"},
+        {"id":6,"status":"offline"},
+        {"id":7,"status":"offline"},
+        {"id":8,"status":"offline"},
+        {"id":9,"status":"offline"},
+        {"id":10,"status":"offline"},
+        {"id":11,"status":"offline"},
+        {"id":12,"status":"offline"},
+        {"id":13,"status":"offline"},
+        {"id":14,"status":"offline"},
+        {"id":15,"status":"offline"},
+        {"id":16,"status":"offline"},
+        {"id":17,"status":"offline"},
+        {"id":18,"status":"offline"},
+        {"id":19,"status":"offline"},
+        {"id":20,"status":"offline"}
+      ]
+    }
+,
+    {
+      "id": "nunki",
+      "name": "Nunki",
+      "icon": "🌙",
+      "isDisabled": true,
+      "loginServer": {
+        "ip": "0.0.0.0",
+        "port": 8484,
+        "status": "offline"
+      },
+      "channels": [
+        {"id":1,"status":"offline"},
+        {"id":2,"status":"offline"},
+        {"id":3,"status":"offline"},
+        {"id":4,"status":"offline"},
+        {"id":5,"status":"offline"},
+        {"id":6,"status":"offline"},
+        {"id":7,"status":"offline"},
+        {"id":8,"status":"offline"},
+        {"id":9,"status":"offline"},
+        {"id":10,"status":"offline"},
+        {"id":11,"status":"offline"},
+        {"id":12,"status":"offline"},
+        {"id":13,"status":"offline"},
+        {"id":14,"status":"offline"},
+        {"id":15,"status":"offline"},
+        {"id":16,"status":"offline"},
+        {"id":17,"status":"offline"},
+        {"id":18,"status":"offline"},
+        {"id":19,"status":"offline"},
+        {"id":20,"status":"offline"}
+      ]
+    }
+,
+    {
+      "id": "okab",
+      "name": "Okab",
+      "icon": "🦅",
+      "isDisabled": true,
+      "loginServer": {
+        "ip": "0.0.0.0",
+        "port": 8484,
+        "status": "offline"
+      },
+      "channels": [
+        {"id":1,"status":"offline"},
+        {"id":2,"status":"offline"},
+        {"id":3,"status":"offline"},
+        {"id":4,"status":"offline"},
+        {"id":5,"status":"offline"},
+        {"id":6,"status":"offline"},
+        {"id":7,"status":"offline"},
+        {"id":8,"status":"offline"},
+        {"id":9,"status":"offline"},
+        {"id":10,"status":"offline"},
+        {"id":11,"status":"offline"},
+        {"id":12,"status":"offline"},
+        {"id":13,"status":"offline"},
+        {"id":14,"status":"offline"},
+        {"id":15,"status":"offline"},
+        {"id":16,"status":"offline"},
+        {"id":17,"status":"offline"},
+        {"id":18,"status":"offline"},
+        {"id":19,"status":"offline"},
+        {"id":20,"status":"offline"}
+      ]
+    }
+  ],
+  "lastChecked": "2026-02-06T07:33:25.000Z",
   "probeInterval": 60
 }
