@@ -62,7 +62,7 @@
         {"id":15,"status":"online"},
         {"id":16,"status":"online"},
         {"id":17,"status":"online"},
-        {"id":18,"status":"online"},
+        {"id":18,"status":"offline"},
         {"id":19,"status":"online"},
         {"id":20,"status":"online"}
       ]
@@ -204,6 +204,6 @@
       ]
     }
   ],
-  "lastChecked": "2026-02-07T08:07:04.000Z",
+  "lastChecked": "2026-02-07T08:08:07.000Z",
   "probeInterval": 60
 }
